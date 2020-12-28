@@ -4,9 +4,9 @@
 #include <LoRa.h>
 #include "images.h"
 
-//#define LORA_BAND    433
+#define LORA_BAND    433
 //#define LORA_BAND    868
-#define LORA_BAND    915
+//#define LORA_BAND    915
 
 #define OLED_SDA    4
 #define OLED_SCL    15
